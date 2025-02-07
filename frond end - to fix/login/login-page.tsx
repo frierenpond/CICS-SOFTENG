@@ -11,7 +11,7 @@ export default function LoginPage() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-02-07%20122833-2znTNSH7DFUAEqku4d2DdBl8azjB7G.png"
+          src="../public/images/frassatibg.jpeg"
           alt="Building exterior"
           fill
           className="object-cover"
@@ -56,4 +56,5 @@ export default function LoginPage() {
     </div>
   )
 }
+
 
