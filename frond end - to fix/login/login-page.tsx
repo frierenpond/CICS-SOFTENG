@@ -11,7 +11,7 @@ export default function LoginPage() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="../public/images/frassatibg.jpeg"
+          src="images/frassatibg.jpeg"
           alt="Building exterior"
           fill
           className="object-cover"
