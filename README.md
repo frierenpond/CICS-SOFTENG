@@ -1,2 +1,1 @@
-hello people
-hey mama
+
